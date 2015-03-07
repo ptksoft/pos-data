@@ -6,9 +6,9 @@ define('SL', "/");          // slash
 
 define('HOST', '127.0.0.1');
 define('PORT', '5432');
-define('USER', 'admin');
-define('PASS', 'dbadmin');
-define('DB', 'scs');
+define('USER', 'db-user');
+define('PASS', 'db-pass');
+define('DB', 'scs2');
 
 define('PATH_TO_SAVE_VERSION_FILE', '/home/pos-data/download');
 define('PATH_TO_SAVE_DATA_FILE', '/home/pos-data/download/data');
